@@ -1,4 +1,4 @@
-var locations_shops = {
+export default {
   'type': 'FeatureCollection',
   'features': [
     {
